@@ -2,9 +2,9 @@
     "name": "Test",
     "description": "Test",
     "version": "2.0.0",
-    "main": "bot.js",
+    "main": "bot1.js",
     "scripts": {
-      "start": "node bot.js"
+      "start": "node bot1.js"
     },
     "repository": {
       "type": "git",
